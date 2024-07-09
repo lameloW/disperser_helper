@@ -31,4 +31,10 @@
 
     node checkAllowance.js
 
+在代码中，修改所需要的参数
+
+- recipients : 接收空投的用户的地址
+
+- amounts : 对应玩家应该接收到的代币数量
+
 [`./disperser.js`](./disperser.js)
